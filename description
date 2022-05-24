@@ -1,0 +1,9 @@
+1   Editor de layout, aqui é onde se faz o esquema do circuito desejado.
+2   Edição de símbolos que não tem no padrão, ou seja, no kicad.
+3   Nesse software iremos adicionar trilhas, pads e outras características do layout. Fazer verificação, etc.
+4   Basicamente, é um programa para nós editarmos algum componente que não temos no kicad, algo que não esteja como padrão.
+5   Visualizador de gerber, para confeccionar as placas a indústria utiliza os arquivos gerbers, camadas por camadas. Também é possível visualizar se está tudo feito corretamente antes de enviar para a indústria.
+6   Converter alguma logo qualquer para sua PCB   
+7   Calculadora de medidas, por exemplo.. digamos que temos uma trila de potência, qual deve ser a largura da trilha pra passar 10A.
+8   Aqui nós podemos editar como o nosso esquemático se pareça, que quisermos adicionar o logo da empresa por exemplo.
+9   Instalar algum outro software que deseje.
