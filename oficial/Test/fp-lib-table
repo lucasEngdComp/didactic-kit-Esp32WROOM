@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/home/alexandre/Documentos/Engenharia 2022.1/Técnicas de Prototipagem/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "projetoPrototipagem")(type "KiCad")(uri "/home/alexandre/Documentos/Engenharia 2022.1/Técnicas de Prototipagem/projetoPrototipagem.pretty")(options "")(descr ""))
+  (lib (name "DISPLAY")(type "KiCad")(uri "/home/lucas/Documents/Técnicas de Prototipagem/DISPLAY.pretty")(options "")(descr ""))
+  (lib (name "esp32")(type "KiCad")(uri "/home/lucas/Documents/Técnicas de Prototipagem/esp32.pretty")(options "")(descr ""))
+  (lib (name "FRANZININHO")(type "KiCad")(uri "/home/h4wk0ne/Desktop/FRANZININHO.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "/home/h4wk0ne/Desktop/Técnicas de Prototipagem/Library.pretty")(options "")(descr ""))
+  (lib (name "franz")(type "KiCad")(uri "/home/h4wk0ne/Desktop/prototyping/Projeto/franz.pretty")(options "")(descr ""))
+  (lib (name "dipSw")(type "KiCad")(uri "/home/h4wk0ne/Desktop/prototyping/Projeto/dipSw.pretty/dipSw.pretty")(options "")(descr ""))
+)

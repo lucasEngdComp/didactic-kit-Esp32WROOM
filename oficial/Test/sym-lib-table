@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "display240")(type "KiCad")(uri "${KIPRJMOD}/bibli/display240.kicad_sym")(options "")(descr ""))
+)
